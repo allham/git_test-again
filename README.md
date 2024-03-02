@@ -1,3 +1,3 @@
 # git_test-again
-repository creating exercise
-hello, what else?
+Repository creating exercise
+Hello, what else?
